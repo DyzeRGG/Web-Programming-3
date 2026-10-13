@@ -15,7 +15,7 @@ fun main() {
     for (i in 1..10) {
         //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-        println("M25W7566 = $i")  }
+        println("Your student numberM25W7566 = $i")  }
 
         // Prints a message to request input
         println("Enter any word: ")
